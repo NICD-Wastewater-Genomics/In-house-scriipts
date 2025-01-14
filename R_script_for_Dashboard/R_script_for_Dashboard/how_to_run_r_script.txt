@@ -1,0 +1,4 @@
+#To manually run an R script on an ubuntu server use the following command: 
+
+Rscript file.r 
+
